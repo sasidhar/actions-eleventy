@@ -1,15 +1,3 @@
-### Note
-
-* I forked the TartanLlama/actions-eleventy github repo and updated the Node.
-
-* If you want to use Node-18, use
-   * sasidhar/actions-eleventy@master
-
-* If you want to use Node-22, use
-   * sasidhar/actions-eleventy@node-22
-
-Now read the original README
-
 # GitHub Action for Eleventy
 
 Use this action to build your static website with [Eleventy](https://www.11ty.io/).
